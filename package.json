@@ -22,7 +22,7 @@
   "scripts": {
     "format": "webmat"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "The Polymer Authors",
   "dependencies": {
     "@polymer/paper-styles": "^3.0.0-pre.26",
