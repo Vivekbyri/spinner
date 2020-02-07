@@ -1,2 +1,1 @@
-# spinner
 Loader Web Component
